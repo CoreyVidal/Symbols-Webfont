@@ -3,7 +3,5 @@
   font-family: 'Symbola';
   font-style: normal;
   font-weight: 400;
-  src: url(https://coreyvidal.github.io/Symbols-Webfont/Symbola/Symbola.woff2) format('woff2'),
-       url(https://coreyvidal.github.io/Symbols-Webfont/Symbola/Symbola.woff) format('woff'),
-       url(https://coreyvidal.github.io/Symbols-Webfont/Symbola/Symbola.ttf) format('truetype');
+  src: url(https://coreyvidal.github.io/Symbols-Webfont/Symbola/Symbola.ttf) format('truetype');
   }
