@@ -3,6 +3,6 @@
   font-family: 'Noto Sans Symbols2';
   font-style: normal;
   font-weight: 400;
-  src: url(https://github.com/CoreyVidal/noto-sans-symbols/blob/main/NotoSansSymbols2-Regular.woff2?raw=true) format('woff2'),
+  src: url(https://coreyvidal.github.io/Symbols-Webfont/) format('woff2'),
        url(https://github.com/CoreyVidal/noto-sans-symbols/blob/main/NotoSansSymbols2-Regular.ttf?raw=true) format('truetype');
   }
