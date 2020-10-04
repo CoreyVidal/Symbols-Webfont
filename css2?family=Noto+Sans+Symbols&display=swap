@@ -1,0 +1,8 @@
+/* fallback */
+@font-face {
+  font-family: 'Noto Sans Symbols';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Noto Sans Symbols'), local('NotoSansSymbols'), url(https://fonts.gstatic.com/s/notosanssymbols/v11/rP2dp3q65FkAtHfwd-eIS2brbDN6gwn5.woff2) format('woff2');
+}
