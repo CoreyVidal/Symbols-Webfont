@@ -1,0 +1,7 @@
+/* fallback */
+@font-face {
+  font-family: 'Consolas';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://coreyvidal.github.io/Symbols-Webfont/Consolas/Consolas.ttf) format('truetype');
+  }
