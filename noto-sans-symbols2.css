@@ -4,5 +4,5 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  url(https://github.com/CoreyVidal/noto-sans-symbols/blob/main/NotoSansSymbols2-Regular.woff2?raw=true) format('woff2');
+  src: url(https://github.com/CoreyVidal/noto-sans-symbols/blob/main/NotoSansSymbols2-Regular.woff2?raw=true) format('woff2');
 }
