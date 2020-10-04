@@ -1,5 +1,5 @@
 /* fallback */
 @font-face {
   font-family: "Noto Sans Symbols2";
-  src: local("Noto Sans Symbols2"), url("/static/NotoSansSymbols2-Regular.ttf");
+  src: local("Noto Sans Symbols2"), url("https://github.com/CoreyVidal/noto-sans-symbols/blob/main/NotoSansSymbols2-Regular.ttf?raw=true");
 }
