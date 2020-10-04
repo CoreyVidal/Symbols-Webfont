@@ -3,7 +3,7 @@
   font-family: 'Symbola';
   font-style: normal;
   font-weight: 400;
-  src: url(https://github.com/CoreyVidal/noto-sans-symbols/blob/main/Symbola.woff2?raw=true) format('woff2'),
-       url(https://github.com/CoreyVidal/noto-sans-symbols/blob/main/Symbola.woff?raw=true) format('woff'),
-       url(https://github.com/CoreyVidal/noto-sans-symbols/blob/main/Symbola.ttf?raw=true) format('truetype');
+  src: url(https://coreyvidal.github.io/Symbols-Webfont/Symbola/Symbola.woff2) format('woff2'),
+       url(https://coreyvidal.github.io/Symbols-Webfont/Symbola/Symbola.woff) format('woff'),
+       url(https://coreyvidal.github.io/Symbols-Webfont/Symbola/Symbola.ttf) format('truetype');
   }
