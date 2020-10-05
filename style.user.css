@@ -6,25 +6,15 @@
 @supportURL   https://github.com/CoreyVidal/Symbols-Webfont
 @updateURL    https://raw.githubusercontent.com/STaRDoGG/portainer-nord-dark-theme/master/style.user.css
 @author       Corey Vidal
-@version      0.2.5
+@version      0.3.0
 @preprocessor stylus
 ==/UserStyle==  */
 
 /* All-in-one */
-/* */
-@import 'https://fonts.googleapis.com/css2?family=Noto+Sans';
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 @import 'https://coreyvidal.github.io/Symbols-Webfont/Cheat-All/Cheat-SFMono-Regular.css';
 @import 'https://coreyvidal.github.io/Symbols-Webfont/Cheat-All/Cheat-Monaco.css';
 @import 'https://coreyvidal.github.io/Symbols-Webfont/Cheat-All/Cheat-Menlo.css';
 @import 'https://coreyvidal.github.io/Symbols-Webfont/Cheat-All/Cheat-Segoe-UI-Symbol.css';
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols&display=swap');
 @import 'https://coreyvidal.github.io/Symbols-Webfont/Noto-Sans-Symbols/Noto-Sans-Symbols2.css';
-/* */
-
-/*
-@import 'https://coreyvidal.github.io/Symbols-Webfont/SFMono/SFMono-Regular.css';
-@import 'https://coreyvidal.github.io/Symbols-Webfont/Consolas/Consolas.css';
-@import 'https://coreyvidal.github.io/Symbols-Webfont/Menlo/Menlo-Regular.css';
-@import 'https://coreyvidal.github.io/Symbols-Webfont/Segoe/Segoe-UI-Symbol.css';
-@import 'https://coreyvidal.github.io/Symbols-Webfont/Symbola/Symbola.css';
-*/
