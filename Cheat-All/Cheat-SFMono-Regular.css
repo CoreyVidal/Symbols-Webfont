@@ -1,5 +1,7 @@
 /* fallback */
 @font-face {
-  font-family: 'SFMono-Regular';
+	font-family: 'SFMono-Regular';
+	font-style: normal;
+  font-weight: 400;
   src: url(https://coreyvidal.github.io/Symbols-Webfont/Cheat-All/Master.ttf) format('truetype');
   }
