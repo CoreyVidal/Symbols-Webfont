@@ -10,8 +10,6 @@
 @preprocessor stylus
 ==/UserStyle==  */
 
-@-moz-document domain("notion.so"),
-               domain("github.io") {
 
 /* Original */
 /*
@@ -32,6 +30,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols&display=swap');
 @import 'https://coreyvidal.github.io/Symbols-Webfont/Noto-Sans-Symbols/Noto-Sans-Symbols2.css';
 /* */
+@-moz-document domain("notion.so"),
+               domain("github.io") {
 
 /*
 @import 'https://coreyvidal.github.io/Symbols-Webfont/SFMono/SFMono-Regular.css';
