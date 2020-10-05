@@ -1,0 +1,20 @@
+/* ==UserStyle==
+@name         Notion Unicode Add-on
+@description  Adds extended unicode characters for Notion.so
+@namespace    github.com/CoreyVidal/Symbols-Webfont
+@homepageURL  https://github.com/CoreyVidal/Symbols-Webfont
+@supportURL   https://github.com/CoreyVidal/Symbols-Webfont
+@updateURL    https://raw.githubusercontent.com/STaRDoGG/portainer-nord-dark-theme/master/style.user.css
+@author       Corey Vidal
+@version      0.3.0
+@preprocessor stylus
+==/UserStyle==  */
+
+/* All-in-one */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import 'https://coreyvidal.github.io/Symbols-Webfont/Cheat-All/Cheat-SFMono-Regular.css';
+@import 'https://coreyvidal.github.io/Symbols-Webfont/Cheat-All/Cheat-Monaco.css';
+@import 'https://coreyvidal.github.io/Symbols-Webfont/Cheat-All/Cheat-Menlo.css';
+@import 'https://coreyvidal.github.io/Symbols-Webfont/Cheat-All/Cheat-Segoe-UI-Symbol.css';
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols&display=swap');
+@import 'https://coreyvidal.github.io/Symbols-Webfont/Noto-Sans-Symbols/Noto-Sans-Symbols2.css';
