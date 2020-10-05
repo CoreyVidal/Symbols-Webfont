@@ -10,6 +10,9 @@
 @preprocessor stylus
 ==/UserStyle==  */
 
+@-moz-document domain("notion.so"),
+               domain("github.io") {
+
 /* Original */
 /*
 @import 'https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap';
@@ -60,3 +63,5 @@ span
     font-family: 'Noto Sans Symbols2';
 }
 */
+
+}
