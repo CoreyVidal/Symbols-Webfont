@@ -6,7 +6,7 @@
 @supportURL   https://github.com/CoreyVidal/Symbols-Webfont
 @updateURL    https://raw.githubusercontent.com/STaRDoGG/portainer-nord-dark-theme/master/style.user.css
 @author       Corey Vidal
-@version      0.2.4
+@version      0.2.5
 @preprocessor stylus
 ==/UserStyle==  */
 
@@ -28,29 +28,3 @@
 @import 'https://coreyvidal.github.io/Symbols-Webfont/Segoe/Segoe-UI-Symbol.css';
 @import 'https://coreyvidal.github.io/Symbols-Webfont/Symbola/Symbola.css';
 */
-
-@-moz-document domain("notion.so"),
-               domain("github.io") {
-/*
-html,
-body,
-div,
-elt,
-style,
-.style,
-span.style,
-element,
-element.style,
-notion-selectable,
-notion-page-block,
-class,
-.class,
-notranslate,
-.notranslate,
-span
-
-:language {
-    font-family: 'Noto Sans Symbols2';
-}
-*/
-}
