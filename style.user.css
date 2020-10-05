@@ -6,10 +6,9 @@
 @supportURL   https://github.com/CoreyVidal/Symbols-Webfont
 @updateURL    https://raw.githubusercontent.com/STaRDoGG/portainer-nord-dark-theme/master/style.user.css
 @author       Corey Vidal
-@version      0.2.0
+@version      0.2.1
 @preprocessor stylus
 ==/UserStyle==  */
-
 
 /* Original */
 /*
@@ -22,6 +21,7 @@
 */
 
 /* All-in-one */
+/* */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 @import 'https://coreyvidal.github.io/Symbols-Webfont/Cheat-All/Cheat-SFMono-Regular.css';
 @import 'https://coreyvidal.github.io/Symbols-Webfont/Cheat-All/Cheat-Monaco.css';
@@ -30,8 +30,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols&display=swap');
 @import 'https://coreyvidal.github.io/Symbols-Webfont/Noto-Sans-Symbols/Noto-Sans-Symbols2.css';
 /* */
-@-moz-document domain("notion.so"),
-               domain("github.io") {
 
 /*
 @import 'https://coreyvidal.github.io/Symbols-Webfont/SFMono/SFMono-Regular.css';
@@ -41,6 +39,8 @@
 @import 'https://coreyvidal.github.io/Symbols-Webfont/Symbola/Symbola.css';
 */
 
+@-moz-document domain("notion.so"),
+               domain("github.io") {
 /*
 html,
 body,
@@ -63,5 +63,4 @@ span
     font-family: 'Noto Sans Symbols2';
 }
 */
-
 }
