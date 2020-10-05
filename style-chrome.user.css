@@ -6,10 +6,9 @@
 @supportURL   https://github.com/CoreyVidal/Symbols-Webfont
 @updateURL    https://coreyvidal.github.io/Symbols-Webfont/style-chrome.user.css
 @author       Corey Vidal
-@version      0.3.2
+@version      0.3.3
 @preprocessor stylus
 ==/UserStyle==  */
-
 /* All-in-one */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 @import 'https://coreyvidal.github.io/Symbols-Webfont/Cheat-All/Cheat-SFMono-Regular.css';
