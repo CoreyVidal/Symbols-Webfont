@@ -11,12 +11,24 @@
 ==/UserStyle==  */
 
 /* Original */
+/*
 @import 'https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap';
 @import 'https://coreyvidal.github.io/Symbols-Webfont/Cheat-SFMono-Regular/Cheat-SFMono-Regular.css';
 @import 'https://coreyvidal.github.io/Symbols-Webfont/Cheat-Monaco/Cheat-Monaco.css';
 @import 'https://coreyvidal.github.io/Symbols-Webfont/Cheat-Menlo/Cheat-Menlo.css';
 @import 'https://coreyvidal.github.io/Symbols-Webfont/Cheat-Segoe-UI-Symbol/Cheat-Segoe-UI-Symbol.css';
-@import 'https://coreyvidal.github.io/Symbols-Webfont/Noto-Sans-Symbols/Noto-Sans-Symbols2.css'; 
+@import 'https://coreyvidal.github.io/Symbols-Webfont/Noto-Sans-Symbols/Noto-Sans-Symbols2.css';
+*/
+
+/* All-in-one */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import 'https://coreyvidal.github.io/Symbols-Webfont/Cheat-All/Cheat-SFMono-Regular.css';
+@import 'https://coreyvidal.github.io/Symbols-Webfont/Cheat-All/Cheat-Monaco.css';
+@import 'https://coreyvidal.github.io/Symbols-Webfont/Cheat-All/Cheat-Menlo.css';
+@import 'https://coreyvidal.github.io/Symbols-Webfont/Cheat-All/Cheat-Segoe-UI-Symbol.css';
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols&display=swap');
+@import 'https://coreyvidal.github.io/Symbols-Webfont/Noto-Sans-Symbols/Noto-Sans-Symbols2.css';
+/* */
 
 /*
 @import 'https://coreyvidal.github.io/Symbols-Webfont/SFMono/SFMono-Regular.css';
