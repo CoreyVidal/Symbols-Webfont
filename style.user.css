@@ -6,8 +6,9 @@
 @supportURL   https://github.com/CoreyVidal/Symbols-Webfont
 @updateURL    https://coreyvidal.github.io/Symbols-Webfont/style.user.css
 @author       Corey Vidal
-@version      0.5.0
+@version      0.5.1
 ==/UserStyle==  */
+@-moz-document domain('notion.so') {
 /* latin-ext  */
 @font-face {
   font-family: 'Noto Sans';
@@ -90,4 +91,5 @@
   font-weight: 400;
   font-display: swap;
   src: local('☺︎'), url(https://raw.githubusercontent.com/googlefonts/noto-fonts/master/hinted/ttf/NotoSansSymbols2/NotoSansSymbols2-Regular.ttf) format('truetype');
+}
 }
